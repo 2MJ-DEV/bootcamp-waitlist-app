@@ -4,11 +4,13 @@
 @import 'tailwindcss';
 
 @theme {
-  --color-background: #fff;
-  --color-foreground: #111;
-  --color-primary: #2a7fff;
+  --color-background: #0D0D14;
+  --color-foreground: #BDBCC4;
+  --color-primary: #16151E;
+  --color-pink: #FF89A0;
+  --color-violet: #9281F7;
   --color-primary-foreground: #fff;
-  --color-border: #eee;
+  --color-border: #292830;
 
   --font-raleway: Raleway, sans-serif;
 }
